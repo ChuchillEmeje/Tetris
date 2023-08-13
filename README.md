@@ -36,10 +36,7 @@ python3 Tetris.py
 
 ## Authors
 
-* **Rajat Dipta Biswas** - *Initial work*
-
-See also the list of [contributors](https://github.com/rajatdiptabiswas/tetris-pygame/graphs/contributors) who participated in this project.
-
+* **Churchill Emeje*
 
 ## Acknowledgements
 * [Pygame Documentations](https://www.pygame.org/docs/)
