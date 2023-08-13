@@ -23,10 +23,10 @@ python3 Tetris.py
 
 ## Screenshots
 
-![1](https://github.com/rajatdiptabiswas/tetris-pygame/blob/master/screenshot-start.png)
+![1](https://github.com/churchillemeje/tetris/screenshot-start.png)
 *Startup screen*
 
-![2](https://github.com/rajatdiptabiswas/tetris-pygame/blob/master/screenshot-active.png)
+![2](https://github.com/churchillemeje/tetris/screenshot-active.png)
 *Active game screen*
 
 
